@@ -4,5 +4,5 @@ Got the following specializations:\
     * *pedagogy*\
     * *English teacher*\
     * *psycologist*\
-    ![image]/img/image.jpg "photo"\
+    ![image](/img/image.jpg)\
     Discord account: kotvtl(kotvtl)
