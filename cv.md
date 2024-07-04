@@ -1,6 +1,8 @@
-# **Кот Виталий Леонидович**
-Закончил Минский государствеенный педагогический университет в 1994 году.
-Получил следующие специальности:\
-    * *педагогика и методика воспитательной работы*\
-    * *учитель английского языка*\
-    * *школьный практический психолог*
+# **Kot Vitaly**
+Graduated from Minsk State Pedagogical University in 1994.
+Got the following specializations:\
+    * *pedagogy*\
+    * *English teacher*\
+    * *psycologist*\
+    ![image](/img/image.jpg)\
+    Discord account: kotvtl(kotvtl)
