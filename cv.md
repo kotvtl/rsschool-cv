@@ -1,5 +1,6 @@
 # rsschool-cv
 ## Vitaly Kot
+![image](/catic%20-%201K%20JPEG.jpg)
 ## Contacts: 
 * Location: Belarus
 * Phone: +375291234567
@@ -23,3 +24,6 @@ background-size: cover;
 Minsk State Pedagogical University
 ## English:
 B2
+
+
+[def]: /catic%20-%201K%20JPEG.jpg
