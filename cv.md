@@ -7,7 +7,7 @@
 * Github: kotvtl
 ## About me:
 Still thinking I am not too old to learn something new
-## Scills:
+## Skills:
 * Html (basic)
 * Css (basic)
 ## Code example:
