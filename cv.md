@@ -1,6 +1,6 @@
 # rsschool-cv
 ## Vitaly Kot
-![image](/catic%20-%201K%20JPEG.jpg)
+![image](/rsschool-cv/catic%20-%201K%20JPEG.jpg)
 ## Contacts: 
 * Location: Belarus
 * Phone: +375291234567
