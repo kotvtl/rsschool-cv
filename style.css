@@ -1,4 +1,26 @@
 @font-face{
     font-family: Roboto;
-    src: url(assets/fonts/Roboto);
+    src: url(assets/fonts/Roboto/Roboto-VariableFont_wdth\,wght.ttf);
+}
+* {
+    box-sizing: border-box;
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+}
+.header {
+
+}
+.main {
+
+}
+.footer {
+
+}
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
 }
