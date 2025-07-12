@@ -119,3 +119,8 @@ a:hover {
 .a-project {
     color: rgb(33, 59, 133);
 }
+.div-code {
+    width: 80%;
+    background-color: lightgrey;
+    padding-left: 30px;
+}
