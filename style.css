@@ -1,0 +1,126 @@
+@font-face {
+    font-family: Roboto;
+    src: url(assets/fonts/Roboto/Roboto-VariableFont_wdth\,wght.ttf);
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: rgb(33, 59, 133);
+}
+p {
+    padding-left: 30px;
+}
+html {
+    scroll-behavior: smooth;
+    }
+.header {
+    font-size: 20px;
+    }
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        }
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+   }
+.nav {
+    width: 100%;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    background-color: #829985;
+    padding: 0;
+}
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: color 0.3s;
+    text-decoration: none;
+    color: black;
+}
+.nav-link:hover {
+    cursor: pointer;
+    color: #5d7260;
+}
+.section {
+    width: 50%;
+        background-color: khaki;
+}
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+.section-title {
+    font-size: 30px;
+    font-weight: 400;
+    font-weight: bold;
+    letter-spacing: 5px;
+    color: white;
+    background-color: #829985;
+    text-align: center;
+}
+.profile-section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-items: center;
+}
+.profile-img {
+    width: 30%;
+}
+.main-title{
+    width: 100%;
+    text-align: center;
+}
+.icon {
+    height: 36px;
+}
+.footer-container {
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #829985;
+    padding: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    line-height: 36px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    transition: color 0.5s;
+}
+a:hover {
+    color: #5d7260;
+}
+.a-project {
+    color: rgb(33, 59, 133);
+}
+.div-code {
+    width: 80%;
+    background-color: lightgrey;
+    padding-left: 30px;
+}
